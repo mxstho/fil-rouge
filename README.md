@@ -17,9 +17,9 @@ Mise en page adaptée aux ordinateurs, aux tablettes et aux mobiles.
 
 ## Technologies utilisées
 
-HTML5 : structure du site.
+HTML : structure du site.
 
-CSS3 : mise en forme et mise en page responsive.
+CSS : mise en forme et mise en page responsive.
 
 Google Fonts : polices Yeseva One et Montserrat.
 
